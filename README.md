@@ -13,9 +13,7 @@
 - 📫 Email me at: zhifengwang686@gmail.com
 - 👯 For more about me, click here: [https://zfw-cv.github.io/](https://zfw-cv.github.io/)
 
-### 🌟 Star History <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=zfw-cv&show_icons=true&icon_color=0366d6&text_color=24292e&bg_color=ffffff&hide_title=true" />
 
 
 
