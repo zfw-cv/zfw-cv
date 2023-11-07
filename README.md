@@ -7,11 +7,6 @@
 
 ### 🧐 About Me <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
-### - 🔭 I received the B.E. degree from Jiangxi Normal University, Nanchang, China, in 2023.
-### - 🌱 I am currently pursuing the M.E. degree with the National University of Defense Technology, Changsha, China. 
-### - 💬 My research interests include Computer Graphics and 3D Vision.
-### - 📫 Email me at: zhifengwang686@gmail.com or zhifengwang@nudt.edu.cn
-### - 👯 For more about me, click here: https://zfw-cv.github.io/
 
 
 </div>
